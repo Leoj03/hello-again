@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2020 Joel M. 37597170+Leoj03@users.noreply.github.com -->
+<component type="desktop">
+    <id>com.github.Leoj03.hello-again</id>
+    <metadata_license>CC0</metadata_license>
+    <name>Hello Again</name>
+    <summary> Says hello.  Again.</summary>
+    <description>
+        <p>It says hello.  Again.  Nothing more, nothing less.</p>
+    </description>
+    <custom>
+  <value key="x-appcenter-color-primary">#603461</value>
+  <value key="x-appcenter-color-primary-text">rgb(255, 255, 255)</value>
+  <value key="x-appcenter-suggested-price">0</value>
+</custom>
+</component>
